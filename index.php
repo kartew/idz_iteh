@@ -27,6 +27,5 @@ if ($_FILES && $_FILES['filename']['error'] == UPLOAD_ERR_OK) {
 <br>
 <h2>Все загуженные файлы</h2>
 <a href="main.php">Посмотреть</a>
-
 </body>
 </html>
